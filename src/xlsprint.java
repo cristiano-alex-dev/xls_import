@@ -32,7 +32,6 @@ public class xlsprint {
                 double local   = celLocal.getNumericCellValue();
                 double qtd   = celQTD.getNumericCellValue();
 
-             //   double margem = preco - custo;
 
                 System.out.printf("%s\t\t%.0f\t\t%.0f%n", produto, local, qtd);
             }
