@@ -5,78 +5,88 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="corretto-18" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.0.0-20210120/poi-5.0.0/poi-scratchpad-5.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-5.2.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-examples-5.2.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-excelant-5.2.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-ooxml-5.2.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-ooxml-full-5.2.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-ooxml-lite-5.2.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar!/" />
         </CLASSES>
-        <JAVADOC />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-javadoc-5.2.3.jar!/" />
+        </JAVADOC>
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-lite-5.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0-tests.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-io-2.19.0-bin/commons-io-2.19.0/commons-io-2.19.0-test-sources.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-full-5.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-collections4-4.5.0-M3-bin/commons-collections4-4.5.0-M3/commons-collections4-4.5.0-M3-tests.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-collections4-4.5.0-M3-bin/commons-collections4-4.5.0-M3/commons-collections4-4.5.0-M3.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-collections4-4.5.0-M3-bin/commons-collections4-4.5.0-M3/commons-collections4-4.5.0-M3-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-collections4-4.5.0-M3-bin/commons-collections4-4.5.0-M3/commons-collections4-4.5.0-M3-test-sources.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-5.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/ant-1.10.15.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/ant-launcher-1.10.15.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/commons-codec-1.15.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/guava-33.3.0-jre.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/httpclient5-5.1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/httpcore5-5.1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/httpcore5-h2-5.1.3.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/javaparser-core-3.26.2.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/javaparser-symbol-solver-core-3.26.2.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/javassist-3.30.2-GA.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/Saxon-HE-12.5.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlbeans-5.3.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlresolver-5.2.2.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/log4j-api-2.24.2.jar!/" />
         </CLASSES>
-        <JAVADOC />
-        <SOURCES />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlbeans-5.3.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/apache-xmlbeans-bin-5.3.0-20241203/apache-xmlbeans-5.3.0/lib/xmlbeans-5.3.0-sources.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.0.0-20210120/poi-5.0.0/poi-integration-5.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-compress-1.27.1/commons-compress-1.27.1-tests.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-compress-1.27.1/commons-compress-1.27.1.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.0.0-20210120/poi-5.0.0/poi-excelant-5.0.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.0.0-20210120/poi-5.0.0/poi-examples-5.0.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/poi-bin-5.0.0-20210120/poi-5.0.0/poi-5.0.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-compress-1.27.1/commons-compress-1.27.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/BIBLIOTECA SANKHYA/commons-compress-1.27.1/commons-compress-1.27.1-test-sources.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
   </component>

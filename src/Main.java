@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+//TIP To <b>Run</b> cod45e, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class Main {
         int escolha;
 
 
-        System.out.print("Escolha 1 para importar texto ou 2 para importar planilha");
+        System.out.print("Escolha 1 para importar texto ou 2 para importar planilha\n");
         escolha = sn.nextInt();
 
         if (escolha == 1) {
