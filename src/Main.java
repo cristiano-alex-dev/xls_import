@@ -36,18 +36,19 @@ public class Main {
             xlsprint leitor = new xlsprint();
             leitor.imprime_colunas(caminho);
 
+
+
+          //  Scanner sa = new Scanner(System.in);
+          //  textprint vamo_ler = new textprint();
+
+
+          //  System.out.print("Digite o caminho do arquivo: ");
+          //  vamo_ler.path = sa.nextLine();
+
+         //   vamo_ler.imprime_texto();
+
             sc.close();
-
-
-            Scanner sa = new Scanner(System.in);
-            textprint vamo_ler = new textprint();
-
-
-            System.out.print("Digite o caminho do arquivo: ");
-            vamo_ler.path = sa.nextLine();
-
-            vamo_ler.imprime_texto();
-            sa.close();
+         //   sa.close();
 
         }
     }
